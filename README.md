@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]
+# Hi, I'm [wairimumirriam875-cmd]
 
 ## About Me
 - I'm currently learning ["AI"]
